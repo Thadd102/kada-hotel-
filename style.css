@@ -1,93 +1,240 @@
  #c-container a {
-     font-size: 1.2rem;
-     font-family: Arial, Helvetica, sans-serif;
-     font-weight: 200px;
-     color: white;
-     
+   font-size: 1.2rem;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 200px;
+   color: white;
+
  }
 
  #c-container h3 {
-     font-size: 1.6rem;
-     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-     margin-top: 22px;
-     text-transform: uppercase;
-     color:#C19E68;
+   font-size: 1.6rem;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin-top: 22px;
+   text-transform: uppercase;
+   color: #C19E68;
  }
 
  .navbar-brand {
-     margin-left: 20px;
+   margin-left: 20px;
 
  }
 
  #c-container h3 span {
-     font-size: .8rem;
-     font-family: Arial, Helvetica, sans-serif;
-     margin-top: -5px;
-     display: block;
-     line-height: 1.3;
+   font-size: .8rem;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: -5px;
+   display: block;
+   line-height: 1.3;
  }
 
  .c-opacity {
-     opacity: 0.4 !important;
+   opacity: 0.4 !important;
  }
 
  .star {
 
-     color:#C19E68;
+   color: #C19E68;
  }
 
  .star i {
 
-    font-size: 1.7rem;
+   font-size: 1.7rem;
  }
 
 
  #star {
-     background-color: #C19E68;
-    
+   background-color: #C19E68;
+
  }
 
-  .navbar-toggler-icon {
-    
-     background-color:#C19E68;
-  }
+ .navbar-toggler-icon {
 
-  .no-radius {
-    border-radius: 0% !important;
+   background-color: #C19E68;
  }
+
+ .no-radius {
+   border-radius: 0% !important;
+ }
+
  .card-title {
 
-    color: #C19E68!important;
-   }
+   color: #C19E68 !important;
+ }
 
-    .star-p {
+ .star-p {
 
-     color:#C19E68;
-     
+   color: #C19E68;
+
  }
 
  .resort-text {
 
-    color: #C19E68;
-  }
+   color: #C19E68;
+ }
 
 
-  .rating {
+ .rating {
 
-    color: #C19E68;
-    font-size: 4rem;
-    font-family: Gill Sans;
-  }
+   color: #C19E68;
+   font-size: 4rem;
+   font-family: Gill Sans;
+ }
 
-  .p {
+ .p {
 
+
+   font-size: 1rem;
+   font-weight: 600;
+
+ }
+
+ #h {
+   height: 70% !important;
+
+ }
+
+ #my-icon i {
+
+   font-size: 5rem;
+   color: #C19E68;
+   border: 3rem !important;
+   border: white;
+ }
+
+ #my-icon h4 {
+
+   font-size: 1rem;
+
+ }
+
+ #hv {
+   height: 100% !important;
+   width: 90%;
+   object-fit: cover;
+
+ }
+
+ .stye {
+   text-decoration: underline;
+   font-style: italic;
+
+
+ }
+
+ .manager {
+   font-size: 1rem;
+   color: #C19E68;
+
+ }
+
+ .fac {
+
+   color: #C19E68;
+ }
+
+
+
+ .number {
+   font-size: 32px;
+   font-weight: bold;
+
+   color: #C19E68;
+ }
+
+
+ .arrow {
+
+   font-size: 1.7rem;
+ }
+
+ .testimonal {
+   background-image: linear-gradient(to bottom, rgba(0, 0, 0.7), rgba(0, 0, 0, 0.3)), url(images/bg-image.jfif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   opacity: 0.8;
+   color: black;
+
+
+
+ }
+
+ #manager {
+   width: 15% !important;
+
+ }
+
+ #c-p {
+   font-family: Arial, Helvetica, sans-serif !important;
+ }
+
+ .styee {
+   text-decoration: none;
+   color: #C19E68;
+   font-size: 1.3rem;
+ }
+
+ #arrow {
+   border-color: #C19E68;
+   color: #C19E68 !important;
+ }
+
+ .c-last {
+   background-color: #C19E68;
+ }
+
+ .c-text {
+   color: white;
+   font-family: 'Times New Roman', Times, serif
+ }
+
+ .d-last {
+   transform: translateX(600px);
+
+ }
+
+ #starc {
+   padding: 5px 80px;
+   font-size: 18px;
+   background-color: white;
+   color: black;
    
-    font-size: 1rem;
-    font-weight: 600;
-    
-  }
 
-  #h {
-    height: 70% !important;
+ }
 
-      }
+ .atag a{
+text-decoration: none;
+color: white;
+
+ }
+
+ .atag a:hover{
+
+color: #C19E68;
+
+ }
+
+ .i-con i{
+  color: #C19E68;
+  font-size: 1.2rem;
+ }
+
+ #starr {
+   padding: 5px 15px;
+   font-size: 18px;
+   background-color: #C19E68;
+   color: white;
+
+    }
+
+    #contact i{
+      color: #C19E68;
+
+    }
+
+     #starc {
+   padding: 5px 15px;
+   font-size: 18px;
+   background-color: white;
+   color: black;
+
+    }
